@@ -59,8 +59,8 @@
 ---
 ## 4. 소개 및 시연 영상
 
-[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://youtu.be/zh_gQ_lmLqE)   
-정보컴퓨터공학과 유튜브 채널에 업로드되면 해당 영상의 link를 연결하겠습니다.
+[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/rvcE1sNboEI/0.jpg)](https://www.youtube.com/watch?v=rvcE1sNboEI)   
+
 
 ---
 ## 5. 사용법
